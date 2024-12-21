@@ -1,0 +1,588 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+Contact_Sales{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    width: 1440px;
+    height: 40px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 1px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    background-color: #F4F4F4;
+    color: #AAAAAA;       
+}
+.SALES{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 30px;
+    margin-left: 1100px;
+}
+.us{
+    display: flex;
+    align-items: center; 
+    gap: 5px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 1px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #AAAAAA; 
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 1440px;
+    height: 99px;
+    top: 40px;
+    gap: 190px;
+       
+}
+.LogoText{
+    margin-right: 250px;
+}
+.PRODUCTS{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.4px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;  
+    font-weight: 900;
+    gap: 95px;    
+    margin-right: 150px;
+}
+.SHOWROOMS{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 25px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.4px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+    font-weight: 900;
+}
+Design_that_inspires{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 50px;
+}
+.DesignText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; 
+    gap: 100px;
+}
+.DesignText > h1{
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 58px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000; 
+}
+.DesignText > p{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #AAAAAA;
+}
+room{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 190px;
+}
+.RoomBooth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; 
+    gap: 25px;
+}
+.Booth{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;   
+}
+leading_brands{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 150px;
+}
+leading_brands > h1{
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000;
+}
+leading_brands > p{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+}
+.brands1{
+    display: flex;
+    gap: 50px;
+}
+.brands2{
+    display: flex;
+    gap: 25px;
+}
+.brands3{
+    display: flex;
+    gap: 40px;
+}
+image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px; 
+    margin: 150px;
+}
+.ellips{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; 
+    gap: 10px;
+}
+.green{
+    background: #46856E;
+    clip-path: circle(50%);
+    height: 1em;
+    width: 1em; 
+}
+.gray{
+    background: #E5E5E5;
+    clip-path: circle(50%);
+    height: 1em;
+    width: 1em; 
+}
+our_simple{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+    margin: 190px;
+}
+.our_simpleText > h1{
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56.25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;   
+}
+.our_simpleText > p{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.75px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #46856E;   
+}
+.effective{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.Cost > h1{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1A1A1A;
+    
+}
+.Cost > p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #AAAAAA;   
+}
+.GET_IN_TOUCH{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 70px;
+}
+woman{
+    background-image: url('picture/woman.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.womanText{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.75px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;   
+    margin-right: 500px;
+}
+.star{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+We_make_work{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 100px;
+}
+.We_make_workText{
+    font-family: Roboto;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 52px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #AAAAAA;
+}
+.We{
+    color: #000000;
+}
+We_sell_direct{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 60px;
+    margin: 50px;
+}
+text > h1{
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+}
+text > p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #AAAAAA;
+}
+.image1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 150px;
+}
+risk-free{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    width: 1200px;
+    height: 465px;
+    border-radius: 2px;
+    background-color: #F2F2F2;  
+    margin: 150px; 
+}
+card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 160px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.06px;
+    letter-spacing: 0.75px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1A1A1A;
+}
+risk-free > h1{
+    font-family: Roboto;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 50.6px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;   
+}
+risk-free > p{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.06px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #AAAAAA;   
+}
+.GETAROOM{
+    width: 146px;
+    height: 50px;
+    border-radius: 2px;
+    border-color: #46856E; 
+    background: #46856E; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: auto;
+    height: 619px;
+    background: #2B2B2B;
+    box-shadow: 0px 400px 0px 0px #2B2B2B;
+    gap: 50px;
+}
+.about{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+.about1{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+AboutandSupport{
+    display: flex;
+    align-items: center;
+ 
+    gap: 50px;
+}
+.Support{
+    margin-top: 150px;
+}
+.Support1{
+    margin-top: 175px;
+}
+Follow{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+.Followus{
+    display: flex;
+    gap: 10px;
+}
+Join_our_mailing_list{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+    gap: 25px;
+}
+block1{
+    display: flex;
+    gap: 50px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.block{
+    width: 327px;
+    height: 54px;
+    top: 30px;
+    border-radius: 3px;
+    border: 1px solid;
+    border-color: #AAAAAA;
+}
+.United_States{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 210px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #AAAAAA;   
+}
+ShowroomsandOffice{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.Office{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+.Office1{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+    margin-bottom: 255px;
+}
+.blockk{
+    width: 28px;
+    height: 26px;
+    top: 231px;
+    left: 770px;
+    border: 1px solid #AAAAAA;
+    margin-bottom: 45px; 
+}
+block2{
+    display: flex;
+    gap: 50px;
+    margin-top: -50px;
+}
+would_like{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 12.89px;
+    letter-spacing: 2.4000000953674316px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #AAAAAA; 
+    margin-right: 170px;  
+}
